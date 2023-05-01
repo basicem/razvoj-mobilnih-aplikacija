@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rma21projekat</string>
+    <string name="predmet">Predmet</string>
+    <string name="kviz">Kviz</string>
+    <string name="datum">Datum</string>
+    <string name="trajanje">Trajanje</string>
+    <string name="bodovi">Bodovi</string>
+</resources>
